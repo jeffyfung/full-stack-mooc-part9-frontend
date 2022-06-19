@@ -1,6 +1,6 @@
-import Header from './components/Header';
-import Content from './components/Content';
-import Total from './components/Total';
+import Header from './header/header';
+import Content from './content/content';
+import Total from './total/total';
 import { CoursePart } from './types';
 
 const App = (): JSX.Element => {

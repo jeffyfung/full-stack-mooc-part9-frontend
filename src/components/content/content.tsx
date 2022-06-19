@@ -1,5 +1,5 @@
 import { CoursePart } from '../types';
-import Part from './Part';
+import Part from './part/part';
 
 const Content = ({ courseParts }: { courseParts: CoursePart[] }) => {
   return (
